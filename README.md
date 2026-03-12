@@ -6,4 +6,4 @@ Computer Engineering Student | Software Developer
 
 💻 Currently working with Python, C++, React, Django, PyTorch
 
-🛠 Interested in GPU design, 3D simulation, robotics, and backend systems
+🛠 Interested in GPU design, Algorithms, and backend system
