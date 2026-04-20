@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi there 
 
-Computer Engineering Student | Software Developer
+Software Developer
 
-🚀 Building projects in AI, machine learning, and full-stack development
+Building projects in AI, machine learning, and full-stack development
 
-💻 Currently working with Python, C++, React, Django, PyTorch
+Currently working with Python, C++, React, Django, PyTorch
 
-🛠 Interested in GPU design, Algorithms, and backend system
+Interested in GPU design, Algorithms, and backend system
